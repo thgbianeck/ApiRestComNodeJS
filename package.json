@@ -1,0 +1,11 @@
+{
+  "name": "gestao-service",
+  "version": "1.0.0",
+  "description": "Api criada para o sistema Gestão Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Moreira Bianeck",
+  "license": "ISC"
+}
